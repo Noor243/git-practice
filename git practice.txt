@@ -1,0 +1,23 @@
+                    cmd commands
+
+         cls command used for clear 
+
+cd command used for  change  directory (cd) 
+then press dir (directory) or ls
+
+cd ../ for reverse changing go back to previous side
+
+set git configurations
+ git config --global user.name "noor"
+
+git init used for initial 
+git add README.md
+git add .
+
+-m commit 1st
+git remote add origin https(complete path)
+git push -u origin master
+
+git status they tell us which files is not uploaded
+
+   
