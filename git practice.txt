@@ -20,4 +20,11 @@ git push -u origin master
 
 git status they tell us which files is not uploaded
 
+git init 
+git status 
+git add  .
+git -m commit "any comment"
+ 
+untracked files to tracke then stagging area then upload in internet
+
    
